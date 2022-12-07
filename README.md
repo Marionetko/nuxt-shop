@@ -9,3 +9,53 @@ Be sure that you have these applications:
 2. Extension for VScode [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 3. Extension for VScode [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
 4. Extension for VScode [Vue Language Features (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+
+# Start New project
+
+Open a terminal and use the following command to create a new project:
+
+```bash
+# npx
+npx nuxi init <project-name>
+```
+
+Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+
+## Setup
+
+Make sure to install the dependencies:
+
+```bash
+# yarn
+yarn install
+
+# npm
+npm install
+
+# pnpm
+pnpm install --shamefully-hoist
+```
+
+## Development Server
+
+Start the development server on http://localhost:3000
+
+```bash
+npm run dev
+```
+
+## Production
+
+Build the application for production:
+
+```bash
+npm run build
+```
+
+Locally preview production build:
+
+```bash
+npm run preview
+```
+
+Checkout the [deployment documentation](https://v3.nuxtjs.org/guide/deploy/presets) for more information.
