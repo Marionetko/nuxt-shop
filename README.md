@@ -1,4 +1,4 @@
-# Multipage website built on NuxtJS
+# Shop App built on NuxtJS 3
 
 This repo was created to build App using [NuxtJS](https://nuxtjs.org/). Here will be described the instructions for working with NuxtJS and the technology stack that will be used for this project. All project code will comply with international web-standards and official framework documentation.
 
