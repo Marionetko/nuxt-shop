@@ -1,7 +1,8 @@
 # Shop App built on NuxtJS 3
 
-This repo was created to build App using [Nuxt.js 3](https://nuxtjs.org/). Here will be described the instructions for working with NuxtJS and the technology stack that will be used for this project. All project code will comply with international web-standards and official framework documentation.
+This is testing repo was created to build an App using [Nuxt.js 3](https://nuxtjs.org/). Here will be described the instructions for working with NuxtJS and the technology stack that will be used for this project. All project code will comply with international web-standards and official framework documentation.
 
+[App DEMO](https://benevolent-sawine-71d2ff.netlify.app/)
 
 ## Project technology stack
 - HTML/CSS/JS
