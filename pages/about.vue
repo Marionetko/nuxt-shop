@@ -8,7 +8,7 @@
 </template>
 
 <script setup>
-  const { data } = await useFetch('/api/mario')
+  const { data } = await useFetch('/api/mario?name=lara')
 </script>
 
 <style scoped>
