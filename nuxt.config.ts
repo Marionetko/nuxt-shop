@@ -6,6 +6,9 @@ export default defineNuxtConfig({
       title: 'Nuxt Shop',
       meta: [
         { name: 'description', content: 'About Nuxt.js' }
+      ],
+      link: [
+        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/icon?family=Material+Icons' }
       ]
     }
   }
