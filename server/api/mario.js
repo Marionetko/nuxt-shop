@@ -1,4 +1,4 @@
-export default defineEventHandler(() => {
+export default defineEventHandler((event) => {
 
   return {
     message: `Hello Mario!`
